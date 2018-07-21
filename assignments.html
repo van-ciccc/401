@@ -1,0 +1,13 @@
+---
+layout: page
+title: Assignments
+sidebar_link: true
+permalink: /assignments
+---
+<ul>
+    {% for asn in site.data.assignments %}
+    <h3>{{ asn.name }}</h3>
+    <li><a href="/resources/assignments/{{ lec.file }}">Slides</li>
+    </br>
+    {% endfor %}
+</ul>

@@ -1,2 +1,8 @@
 - name: Assignment 1
   file: asn1.pdf
+
+- name: Assignment 2
+  file: asn2.pdf
+
+- name: Assignment 3
+  file: ans3.pdf

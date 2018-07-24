@@ -26,7 +26,7 @@ tags:
 
 ### 2. The standard for submissions
 
-- All of your files must repect the standard. If you made any standard error you'll get a 0:boom: for the assignment or even for the whole project.:sob:
+- All of your files must repect the standard. If you made any standard error you'll get a **0** for the assignment or even for the whole project.:sob:
 
 ### 3. Suggestions
 

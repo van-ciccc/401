@@ -1,3 +1,7 @@
 - name: Lecture 1
   slides: slide1.pdf
   src: source1.zip
+
+- name: Lecture 2
+  slides: slide2.pdf
+  src: source2.zip

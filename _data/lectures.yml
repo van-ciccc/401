@@ -9,3 +9,7 @@
 - name: Lecture 3
   slides: slide3.pdf
   src: source2.zip
+
+- name: Lecture 4
+  slides: slide4.pdf
+  src: source4.zip

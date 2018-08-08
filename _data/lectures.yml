@@ -13,3 +13,11 @@
 - name: Lecture 4
   slides: slide4.pdf
   src: source4.zip
+
+- name: Lecture 5
+  slides: slide5.pdf
+  src: source5.zip
+
+- name: Lecture 6
+  slides: slide6.pdf
+  src: source6.zip

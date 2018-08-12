@@ -172,4 +172,4 @@ dp@ciccc $ ./vc_print_memory | cat -te
 ```
 
 - Function prototype:
-  `void ft_print_memory(void *addr, unsigned int size);`
+  `void *vc_print_memory(void *addr, unsigned int size);`

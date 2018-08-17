@@ -33,3 +33,7 @@
 - name: Lecture 9
   slides: slide9.pdf
   src: source9.zip
+  
+- name: Lecture 10
+  slides: slide10.pdf
+  src: source10.zip

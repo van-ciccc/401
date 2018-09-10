@@ -1,0 +1,14 @@
+--- 
+layout: page
+title: Labs
+sidebar_link: true
+permalink: /labs
+---
+<ul>
+    {% for lab in site.data.labs %}
+    <h3>{{ lab.name }}</h3>
+    <li>
+        <a href="{{ site.baseurl }}/resources/labs/{{ lab.file }}">File</li>
+    </br>
+    {% endfor %}
+</ul>

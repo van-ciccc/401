@@ -1,0 +1,38 @@
+- name: Lab 1
+  file: lab1.pdf
+
+- name: Lab 2
+  file: lab2.pdf
+
+- name: Lab 3 (Part 1)
+  file: lab3.pdf
+
+- name: Lab 4
+  file: lab4.pdf
+
+- name: Lab 5 (Part 2)
+  file: lab5.pdf
+
+- name: Lab 6
+  file: lab6.pdf
+
+- name: Lab 7
+  file: lab7.pdf
+
+- name: Lab 8 (Part 1)
+  file: lab8.pdf
+
+- name: Lab 9
+  file: lab9.pdf
+
+- name: Lab 10
+  file: lab10.pdf
+  
+- name: Lab 11 (Part 2)
+  file: lab11.pdf
+
+- name: Lab 12 (Part 3)
+  file: lab12.pdf
+
+- name: Lab 13
+  file: lab13.pdf
